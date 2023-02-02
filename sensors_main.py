@@ -1,5 +1,5 @@
 import sys
-# muutos 2.
+# muutos2.
 # This is the main function for controlling the flow of the
 # implementation.
 def main():
